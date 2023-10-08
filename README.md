@@ -1,0 +1,2 @@
+# DiscordCommand
+# Plugin Discord CMD
