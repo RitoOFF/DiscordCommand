@@ -1,0 +1,13 @@
+#  __  ,-.
+#,' ,'/ /|   ,---.   ________
+#'  | |' |   '   |  |__   __|     /   /   |
+#|  |   ,'   |   '    |   '      .   ; ,. :
+#'  :  /     |   |    |   |      '   | |: :
+#|  | '      |   |    '   |      '   | .; :
+#;  : |      |   '    |   '      |   :    |
+#|  , ;      '   |    |   |      \   \   /
+# ---'       `--'     |_ _|       `----'
+
+# -> LEGENDE :
+#      - cmd-sendmessage = LE MESSAGE QUE SA VAS AFFICHER AU JOUEUR SI VOUS SOUAIHAITER INTEGRER LE PSEUDO DU JOUEUR DANS LE MESSAGE METTEZ {player] COMME DANS L'EXEMPLE !
+cmd-sendmessage: "§e->§r Hey §e{player}§r voici le discord du serveur : §ediscord.gg/tg"

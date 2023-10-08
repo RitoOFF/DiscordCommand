@@ -1,0 +1,9 @@
+name: DiscordCommand
+api: 5.0.0
+version: 1.0.0
+author: Rito
+main: Rito\Discord\Main
+
+permissions:
+  perm_cmd.discord:
+    default: true
